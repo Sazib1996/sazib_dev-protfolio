@@ -1,2 +1,3 @@
 # sazib_dev_protfolio
-https://github.com/Sazib1996/sazib_dev_protfolio
+
+https://sazib1996.github.io/sazib_dev-protfolio/
